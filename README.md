@@ -1,4 +1,4 @@
-# scala-cli-erath-sieve
+# scala-cli-sieve-atkins
 
 ## Description
 Given a number find all primes.
